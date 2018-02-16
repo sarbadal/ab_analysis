@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='abanalysis',
-      version='1.2.0',
+      version='1.2.2',
       packages=find_packages(), # include all packages under abanalysis
       # package_dir={'':'abanalysis'},   # tell distutils packages are under abanalysis
       description='Calculates Lift and Impact for AB Testing.',
